@@ -1,0 +1,5 @@
+## Pages
+- [Kegiatan - Rumah Dilan MILEA](/kegiatan): Daftar kegiatan dan agenda Rumah Dilan MILEA.
+- [Profil - Rumah Dilan MILEA](/profile): Profil lengkap Rumah Dilan MILEA - Mitra Keluarga Langgeng Edukatif Keluarga dengan visi, misi, dan struktur kepengurusan.
+- [Program Kerja - Rumah Dilan MILEA](/program): Program kerja Rumah Dilan MILEA meliputi CERDAS dan LESTARI untuk pemberdayaan keluarga Indonesia.
+- [Rumah Dilan - Rumah Pendidikan dan Keterampilan Keluarga](/landing): Rumah Dilan MILEA - Mitra Inovasi Lingkungan Edukasi Keluarga, hadir untuk memberdayakan keluarga Indonesia melalui pendidikan dan pelatihan keterampilan yang berkualitas
